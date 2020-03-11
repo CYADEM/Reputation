@@ -1,0 +1,7 @@
+PLAYER-NEVER-PLAYED: "&cPlayer '&7{PLAYERNAME}&7c' has never played before."
+REPUTATION-TYPE-NULL: "&cReputation type named '&7{REPUTATION}&c' could not be found."
+REPUTATION-EVENT-CANCELLED: "&cReputation event has been cancelled."
+PLAYER-REPUTATION-INCREMENTED: "&a{PLAYERNAME}'s reputation named {REPUTATION} has been incremented. &7(&c{FROMREP} &d-> &a{TOREP}&7)"
+PLAYER-REPUTATION-DECREMENTED: "&a{PLAYERNAME}'s reputation named {REPUTATION} has been decremented. &7(&a{FROMREP} &d-> &c{TOREP}&7)"
+INCREMENTED-MESSAGE: "&aYour reputation has been incremented from &f&l{FROM} &ato &a&l{TO}&a."
+DECREMENTED-MESSAGE: "&cYour reputation has been decremented from &f&l{FROM} &cto &c&l{TO}&c."
